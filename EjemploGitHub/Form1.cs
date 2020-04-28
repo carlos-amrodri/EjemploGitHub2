@@ -12,7 +12,7 @@ namespace EjemploGitHub
 {
     public partial class Form1 : Form
     {
-        private string prueba = "Variable que cambia";
+        private string prueba = "Variable que cambiada";
         
         public Form1()
         {
