@@ -12,8 +12,8 @@ namespace EjemploGitHub
 {
     public partial class Form1 : Form
     {
-        private string prueba = "Probando";
-        private string variable = "Segunda v";
+        private string prueba = "Variable que cambia";
+        
         public Form1()
         {
             InitializeComponent();
