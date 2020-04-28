@@ -13,6 +13,7 @@ namespace EjemploGitHub
     public partial class Form1 : Form
     {
         private string prueba = "Probando";
+        private string variable = "Segunda v";
         public Form1()
         {
             InitializeComponent();
